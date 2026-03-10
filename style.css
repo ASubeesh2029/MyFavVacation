@@ -1,0 +1,28 @@
+h1 {
+  font-family: japanese-gothic, sans-serif;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #d25f57;
+    color: #333;
+    margin: 20px;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+}
+.fullpage-img {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  margin: 0;
+  z-index: -1;
+  pointer-events: none;
+}
