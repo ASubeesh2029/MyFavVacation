@@ -20,9 +20,6 @@ html, body {
   inset: 0;
   width: 100%;
   height: 100%;
-  object-fit: cover;
-  display: block;
-  margin: 0;
-  z-index: -1;
-  pointer-events: none;
+  object-fit: scale-down;
+  margin: 1200px;
 }
