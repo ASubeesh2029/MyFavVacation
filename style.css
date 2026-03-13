@@ -1,3 +1,9 @@
+/* Website Destination
+Asher Subeesh
+Computer Science
+Stephanie Ablas
+3/13/2026 */
+
 h1 {
   font-family: japanese-gothic, sans-serif;
 }
@@ -15,11 +21,9 @@ html, body {
   height: 100%;
   margin: 0;
 }
-.fullpage-img {
-  position: fixed;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: scale-down;
-  margin: 1200px;
+
+a{
+text-decoration: none;
+color: rgb(61, 141, 245);
 }
+
